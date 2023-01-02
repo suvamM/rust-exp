@@ -1,0 +1,13 @@
+/mnt/d/repos/rust/rust-exp/mandelbrot/target/release/deps/gif-6e2326ebef5e2f5a.rmeta: /home/suvam/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/lib.rs /home/suvam/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/traits.rs /home/suvam/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/common.rs /home/suvam/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/util.rs /home/suvam/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/mod.rs /home/suvam/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/decoder.rs /home/suvam/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/encoder.rs
+
+/mnt/d/repos/rust/rust-exp/mandelbrot/target/release/deps/libgif-6e2326ebef5e2f5a.rlib: /home/suvam/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/lib.rs /home/suvam/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/traits.rs /home/suvam/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/common.rs /home/suvam/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/util.rs /home/suvam/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/mod.rs /home/suvam/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/decoder.rs /home/suvam/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/encoder.rs
+
+/mnt/d/repos/rust/rust-exp/mandelbrot/target/release/deps/gif-6e2326ebef5e2f5a.d: /home/suvam/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/lib.rs /home/suvam/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/traits.rs /home/suvam/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/common.rs /home/suvam/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/util.rs /home/suvam/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/mod.rs /home/suvam/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/decoder.rs /home/suvam/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/encoder.rs
+
+/home/suvam/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/lib.rs:
+/home/suvam/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/traits.rs:
+/home/suvam/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/common.rs:
+/home/suvam/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/util.rs:
+/home/suvam/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/mod.rs:
+/home/suvam/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/reader/decoder.rs:
+/home/suvam/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.9.2/src/encoder.rs:
