@@ -1,0 +1,10 @@
+[package]
+name = "encoder-tests"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+base-62 = "0.1.1"
+rand = "0.8.5"
+base64 = "0.21.0"
+substring = "1.4.5"
